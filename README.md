@@ -1,4 +1,5 @@
 ## Hi! 👋 I am Diva Widia    
+<img src="https://komarev.com/ghpvc/?username=divawidia" alt="divawidia" /> <img src="https://img.shields.io/github/followers/divawidia?label=follow&style=social" />
 
 I am an experienced full-stack web developer with over a years of expertise in designing, developing scalable, high-quality solutions, deploying, and maintaining responsive websites. Proficient in PHP, Python, SQL, JavaScript, Ruby, and website frameworks such as Laravel, Ruby on Rails, Vue.js, and Flask. Passionate about learning and staying updated with the latest app technologies, develop my skills and grow professionally, committed to delivering high-quality projects on time. Let’s collaborate to transform ideas into robust, innovative applications.
 
