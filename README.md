@@ -9,9 +9,9 @@ I am an experienced full-stack web developer with over a years of expertise in d
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)][github]
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 
-[linkedin]: [https://www.linkedin.com/in/diva-widia-0aab48197/]
-[github]: [https://github.com/divawidia]
-[telegram]: [https://telegram.me/divawidia]
+[linkedin]: https://www.linkedin.com/in/diva-widia-0aab48197
+[github]: https://github.com/divawidia
+[telegram]: https://telegram.me/divawidia
 
 ## 🔧 Technologies & Tools
 | Categories  | Contents |
